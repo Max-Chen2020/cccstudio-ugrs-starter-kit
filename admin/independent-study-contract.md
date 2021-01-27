@@ -1,11 +1,11 @@
 ---
-uid:u6548263
-name:Haoyang Chen
-project_supervisor:Ben Swift
-course_supervisor:Jochen Renz
+uid: u6548263
+name: Haoyang Chen
+project_supervisor: Ben Swift
+course_supervisor: Jochen Renz
 course_title: Advanced Computing Research Project (COMP4550)
 course_units: 12 + 12 
-semester:1 and 2
+semester: 1 and 2
 ---
 
 NOTE: the actual pdf form which needs to be submitted is
