@@ -18,9 +18,9 @@ before submission.
 
 ### Learning Objectives
 
-1. Learn to train LSTM networks to generate music.
+1. Learn to use LSTM network to generate music.
 
-2. Understand how machines recognize feelings converyed by music.
+2. Understand how machines recognize different characteristics of music.
 
 3. Learn to design a good musical interface.
 
