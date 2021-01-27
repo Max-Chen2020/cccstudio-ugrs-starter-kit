@@ -1,5 +1,5 @@
 ---
-name: your name # change this!
+name: Haoyang Chen # change this!
 type: current-student # you can leave this as-is
 ---
 
@@ -13,3 +13,6 @@ yours will go when you've written it up).
 
 Finally, add a photo you'd like to use alongside your bio to this repo (in the
 `ccc-website` folder alongside this file).
+
+Personal Bio: 
+Haoyang (Max) is a competitive programmer that loves to combine music with computer science. During his free time, he loves to play guitar and enjoying different combinations of chord progressions. This gives him the idea for his honours project - based on patterns of chord progressions and various feelings converyed, generating new melodies that express different emotions.
