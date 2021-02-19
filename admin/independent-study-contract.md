@@ -26,9 +26,9 @@ before submission.
 
 ### Project Description
 
-The aim of this research project is to build a connection between common chord progressions and people’s emotions, and to use machine learning techniques to create chord progressions which can bring people similar feelings.
+The aim of this research project is to explore the connection between common chord progressions and people’s emotions, and to use machine learning techniques to create chord progressions which can bring people similar feelings.
 
-The dataset of the project will be gathered from pop music. Ten common chord progressions from pop music will be chosen and classified into several emotion labels based on the feelings they bring to people. The identified chord progressions will then be transformed into MIDI files to be played and processed. 
+The dataset of the project will be gathered from pop music. Common chord progressions from pop music will be chosen and classified into several emotion labels based on the feelings they bring to people. The identified chord progressions will then be transformed into MIDI files to be played and processed. 
 
 For a systematic mapping between chord progressions and people's emotions, arousal/valence graph will be used. An online performance will be carried out to collect feedback from audiences. Each audience will provide an arousal/valence-graph coordinate to indicate their strong/weak and positive/negative emotion upon listening to the audios.
 
