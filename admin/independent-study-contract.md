@@ -18,6 +18,8 @@ before submission.
 
 ### Project Title
 
+Exploration of relationship between chord progressions and people's emotions
+
 ### Learning Objectives
 
 1. understand some aspects of the relationship between specific musical chord
