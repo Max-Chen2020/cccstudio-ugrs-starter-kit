@@ -16,6 +16,8 @@ before submission.
 
 ## Section A (Students and Supervisors)
 
+### Project Title
+
 ### Learning Objectives
 
 1. understand some aspects of the relationship between specific musical chord
