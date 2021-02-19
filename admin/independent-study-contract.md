@@ -18,7 +18,7 @@ before submission.
 
 ### Project Title
 
-Exploration of relationship between chord progressions and people's emotions
+Exploration of the relationship between chord progressions and people's emotions
 
 ### Learning Objectives
 
