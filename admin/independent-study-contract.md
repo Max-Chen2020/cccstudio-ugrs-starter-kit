@@ -34,9 +34,9 @@ The aim of this research project is to explore the connection between common cho
 
 The dataset of the project will be gathered from pop music. Common chord progressions from pop music will be chosen and classified into several emotion labels based on the feelings they bring to people. The identified chord progressions will then be transformed into MIDI files to be played and processed. 
 
-For a systematic mapping between chord progressions and people's emotions, arousal/valence graph will be used. An online performance will be carried out to collect feedback from audiences. Each audience will provide an arousal/valence-graph coordinate to indicate their strong/weak and positive/negative emotion upon listening to the audios.
+For a systematic mapping between chord progressions and people's emotions, arousal/valence graph will be used. An online performance will be carried out to gather data on which chord progressions elicit which emotional responses from audiences. Each audience will provide an arousal/valence-graph coordinate to indicate their strong/weak and positive/negative emotion upon listening to the audios. Thus, each chord progression will have many emotional labels.
 
-Once the emotion feedbacks are gathered, another classification will be carried out. Ten different types of audio files will be labelled with different emotion labels based on the majority votes from audiences. In the next step, an existing LSTM network model will be used to train the classified audio datasets and output new sequences of music. 
+Once the feedbacks are gathered, another classification will be carried out. Ten different types of audio files will be mapped to ten different emotions based on a weighted average coordinate. In the next step, an existing LSTM network model will be used to train the classified audio datasets and output new sequences of music. 
 
 Evaluation of the model will be carried out generatively. Providing an arousal/valence graph coordinate, the output audio will be played to audiences to gather emotion feedbacks. Comparison between the feedback and the input coordinate emotion will be carried out to see if the feelings are similar.
 
